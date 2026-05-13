@@ -1,0 +1,26 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+
+# Python compilado
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribuição / Pacotes
+dist/
+build/
+*.egg-info/
+
+# Logs e Dados
+*.log
+data/
+
+# Configurações de Editor
+.vscode/
+.idea/
+
+# Variáveis de ambiente (Segurança)
+.env
