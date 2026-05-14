@@ -1,0 +1,6 @@
+# Qualidade de Código e Estilo
+ruff
+black
+
+# Testes (Próxima etapa profissional)
+pytest
